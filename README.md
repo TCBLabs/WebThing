@@ -1,3 +1,3 @@
 # WebThing
 
-This is the start of something nice
+This is the start of something cool
